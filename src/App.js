@@ -1,3 +1,4 @@
+import { Component } from 'react';
 import './App.css';
 import Fighter from './components/Fighter';
 
