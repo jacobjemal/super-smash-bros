@@ -8,11 +8,10 @@ const characters = [
   {name: 'Fox', color: 'green'},
   {name: 'Ganondorf', color: 'purple'},
   {name: 'Sheik', color: 'lightskyblue'},
-  {name: 'cloud', color: 'mediumseagreen'},
-  {name: 'zelda', color: 'pink'},
-  {name: 'falco', color: 'orange'},
-  {name: 'samus', color: 'firebrick'},
-  {name: 'link', color: 'yellow'}
+  {name: 'Cloud', color: 'mediumseagreen'},
+  {name: 'Falco', color: 'orange'},
+  {name: 'Samus', color: 'firebrick'},
+  {name: 'Link', color: 'yellow'}
 ]
 
 function App() {
