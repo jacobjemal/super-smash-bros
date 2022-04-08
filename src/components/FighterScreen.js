@@ -14,3 +14,4 @@ const FighterScreen = ({ isVisible, setVisible, selectedCharacter}) => {
   }
   
   export default FighterScreen;
+  
